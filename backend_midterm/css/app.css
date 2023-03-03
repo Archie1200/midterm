@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body {
+    background: #fff8f8;
+    font: 15px;;
+}
+
+.heading {
+    background-color: rgb(238, 238, 51);
+}
+
+.heading h1 {
+    font-size: 40px;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.heading p {
+    font-size: 10px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.footerimg {
+    width: 100vw;
+    position: static;
+    height: 290px;
+}
